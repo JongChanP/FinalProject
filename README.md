@@ -36,7 +36,7 @@ cookie를 사용한 장바구니 기능을 구현 하고 싶어서 **쇼핑몰 �
 - Visual Studio Code
 - SQL Developer
 
-** 기술 스택**
+**기술 스택**
 
 - Java(jdk 11)
 - spring Framework / MVC 아키텍처 패턴 
