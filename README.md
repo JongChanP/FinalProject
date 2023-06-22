@@ -85,7 +85,7 @@ cookie를 사용한 장바구니 기능을 구현 하고 싶어서 **쇼핑몰 �
 
 ## 2-4. 완성된 화면
 <details>
-  <summary>상품 목록 화면</summary>
+  <summary>상품 목록 화면</summary>.
   <br />
   <div markdown="1">
     <image src="https://github.com/JongChanP/FinalProject/blob/main/FinalImage/ProductList.png" />
